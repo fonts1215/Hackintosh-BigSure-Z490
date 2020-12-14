@@ -2,6 +2,9 @@
 EFI folder for Z490
 
 Hi everyone, i build an hackintosh with OpenCore v.0.6.4 and bigSur 11.0.1.
+Now there is an DEBUG boot, but you can easly swap with a RELEASE version.
+
+Device status:
   - WiFi (Intel AC 9462) works
   - Bluetooth doesn't works yet
   - iGPU is correctly recognized
