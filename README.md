@@ -1,5 +1,5 @@
-# Opencore-BigSure-z490
-EFI folder for Z490
+# Hackintosh BigSure Z490
+EFI folder for Gigabyte Aorus Z490 Elite AC 
 
 Hi everyone, i build an hackintosh with OpenCore v.0.6.4 and bigSur 11.0.1.
 Now there is an DEBUG boot, but you can easly swap with a RELEASE version.
